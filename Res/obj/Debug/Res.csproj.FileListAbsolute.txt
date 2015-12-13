@@ -1,0 +1,5 @@
+C:\Users\Prscar\Documents\Res\Res\bin\Debug\Res.dll
+C:\Users\Prscar\Documents\Res\Res\bin\Debug\Res.pdb
+C:\Users\Prscar\Documents\Res\Res\obj\Debug\Res.csprojResolveAssemblyReference.cache
+C:\Users\Prscar\Documents\Res\Res\obj\Debug\Res.dll
+C:\Users\Prscar\Documents\Res\Res\obj\Debug\Res.pdb

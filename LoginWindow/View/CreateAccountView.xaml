@@ -1,0 +1,19 @@
+﻿<Window x:Class="LoginWindow.View.CreateAccountView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoginWindow.View"
+        mc:Ignorable="d"
+        Title="CreateAccountView" Height="300" Width="300" Background="CadetBlue" >
+    <Grid>
+        <TextBox x:Name="txtUsername" Height="23" TextWrapping="Wrap" TextChanged="txtName_TextChanged" Margin="0,21,163,225" />
+        <TextBlock Text="Please enter a username" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox x:Name="txtPassword" Height="23" TextWrapping="Wrap" TextChanged="txtPassword_TextChanged" Margin="-2,70,165,176" />
+        <TextBlock Text="Please enter a password" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,49,0,0" />
+        <Button x:Name="button" Content="Register" BorderThickness="0" Background="CadetBlue" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Top" Width="127" Margin="0,124,0,0" Height="24"/>
+
+
+
+    </Grid>
+</Window>
